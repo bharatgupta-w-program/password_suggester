@@ -45,15 +45,3 @@ This repository is strictly an **educational toy project** exploring linear alge
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-* A C++11 compliant compiler (GCC, Clang, or MSVC)
-
-### Compilation
-Clone the repository and compile using your terminal:
-
-```bash
-git clone [https://github.com/YOUR_USERNAME/gram-schmidt-password-generator.git](https://github.com/YOUR_USERNAME/gram-schmidt-password-generator.git)
-cd gram-schmidt-password-generator
-g++ -std=c++11 main.cpp -o pass_gen
