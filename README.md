@@ -19,7 +19,7 @@ Because the math is entirely deterministic, entering the same inputs will always
 
 ---
 
-## 🛠️ How It Works (The Math)
+##  How It Works (The Math)
 
 The program maps strings to 32-dimensional vectors and extracts an independent, orthogonal basis vector using the following steps:
 
@@ -36,7 +36,7 @@ The program maps strings to 32-dimensional vectors and extracts an independent, 
 
 ---
 
-## ⚠️ Cryptographic Limitations: "Don't Roll Your Own Crypto" 🚫🔑
+##  Cryptographic Limitations: "Don't Roll Your Own Crypto" 
 
 This repository is strictly an **educational toy project** exploring linear algebra applications. When analyzed through a professional cybersecurity lens, several constraints emerge that explain why production-grade security standards (like PBKDF2 or Argon2) rely on bitwise transformations rather than pure geometry:
 
